@@ -1,0 +1,4 @@
+Faker==1.0.4
+ERAlchemy==1.2.10
+SQLAlchemy==1.3.2
+mysql-connector-python==8.0.15

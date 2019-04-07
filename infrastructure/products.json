@@ -1,0 +1,13 @@
+{
+    "category": [
+        { "name": "Meyve, Sebze" },
+        { "name": "Et, Balık, Kümes" },
+        { "name": "Süt, Kahvaltılık" },
+        { "name": "Gıda, Şekerleme" },
+        { "name": "İçecek" },
+        { "name": "Deterjan, Temizlik" },
+        { "name": "Kağıt, Kozmetik" },
+        { "name": "Bebek, Oyuncak" },
+        { "name": "Ev, Pet" }
+    ]
+}

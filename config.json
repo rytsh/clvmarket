@@ -1,0 +1,14 @@
+{
+    "connection": {
+        "username": "muser",
+        "password": "muser",
+        "URL": "localhost",
+        "port": "3306",
+        "db": "Migros"
+    },
+    "fakedata": {
+        "user_count": 100,
+        "max_invoice_per_user": 10,
+        "max_item_per_invoice": 5
+    }
+}
